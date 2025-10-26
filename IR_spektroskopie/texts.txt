@@ -1,0 +1,21 @@
+1. Ausgabenstellung
+
+Es werden die Infrarotspektren von Tris(hydroxymethyl)aminomethan und Benzoesäuremethylester gemessen und mit einer Rechnung verglichen. Speziell werden fünf Banden in jedem Datensatz ausgewählt und im Sachkontext interpretiert. Dabei wird auf Übereinstimmungen und Unterschiede der Spektren sowie den chemisch-physikalischen Hintergrund eingegangen. Insbesondere wird die Einwirkung der Atommasse, der Bindungsstärke und des Dipolmoments auf Absorbtionsfrequenz betrachtet.
+
+
+2. Versuchsaufbau und -durchführung
+
+
+3. Versuchsdaten
+
+
+
+4. Auswertung
+
+
+
+5. Fehlerbetrachtung
+
+
+
+6. Diskussion
